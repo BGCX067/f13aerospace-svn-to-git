@@ -1,0 +1,20 @@
+
+F13 Aerospace Ltd
+http://f13aerospace.googlecode.com/
+
+Modeling, Texturing, and Parts.cfging  - MrBloodworth
+Plugin Code and Swearing at Windows    - Quinton
+
+
+Contents:
+1. Highly experimental Tri-Fold Solar Panel (F13SolarPanel)
+   - use O/P to fold/unfold panels
+   - use B/V to rotate panels
+
+Todo:
+- figure out why the model draws incorrectly in the VAB parts bay
+- correctly configure drag, etc, make panels tear off if unfolded in
+  atmospheric flight
+- generate electricity (work with Batteries, IonEngines, etc)
+
+ 
